@@ -45,8 +45,46 @@ Saya Ingin melihat waktu tiap kedatangan bus tiap kode trayek yang saya dapatkan
 • Kode trayek 6 datang setiap 4-12 menit tergantung pemberhentian <br />
 • Kode trayek 2 datang setiap 3-7 menit tergantung pemberhentian <br />
 • Kode trayek 13 datang setiap 17-20 menit tergantung pemberhentian <br />
-
+<br />
 Dari hasil waktu kedatangan di atas dapat disimpulkan bahwa pihak tije sudah cukup baik mengatur jadwalnya <br />
 namun pada tryek 10 dan trayek 13 memiliki waktu kedatangan yang relatif cukup lama. Menurut hipotesa saya <br />
 data ini berasal dari tahun 2021 sedangkan pihak tije sudah menganalisis data yang terbaru yang menyebabkan bus <br />
 pada trayek tersebut datang lebih lama dikarenakkan menyesuaikan dengan jumlah penumpang terbaru <br />
+<br />
+Selanjutnya terdapat Moda tije yang paling jarang digunakan oleh para pengguna tije yaitu <br />
+GR 4 dengan total hanya 232 penggunaan total pada tahun 2021 serta disusul dengan kode trayek <br />
+lainya berupa GR5, 6F, 6Q, GR3, 12A, JAK.10B, GR2, JAK 10B, dan 2P merupakan peringkat paling rendah <br />
+dibanding dengan trayek yang lain. Kebanyakan jenis transportasinya berasal dari angkutan umum integrasi. <br />
+Grafis dibwahnya merupakan grafis rata rata penggunaan terendah pada transportasi tije yang tidak jauh <br/>
+berbeda dengan hasil total keseluruhanya. <br />
+Menurut hipotesa saya kurangnya penggunaan moda tije yang rendah diakibatkan oleh beberapa faktor <br />
+seperti kurangnya strategis tempat pemberhentian, kurangnya informasi tetang moda transportasi tesebut, <br />
+serta terdapat altenatif lain yang mungkin lebih nyaman oleh karna itu moda tije tersebut <br />
+relatif lebih kecil penggunaanya. <br />
+<br />
+
+Analisis selanjutnya yang saya ingin lakukan yaitu tentang time series penggunaanya tiap bulan serta distribusi <br />
+jenis moda transportasi tije apa saja yang selalu digunakan oleh pelanggan tije untuk grafisnya dapat dilihat <br />
+sebagai berikut <br />
+![Screenshot 2023-09-12 190108](https://github.com/Krioha/Tije/assets/93811161/11b1a507-1f2a-4c20-83bc-7bd05fe3750d) <br />
+yang pertama merupakan grafis time series total pengguna tiap bulanya, dari bulan 1 sampai bulan 6 relatif terjadi <br />
+peningkatan jumlah pelanggan tije namun pada bulan 7 dan 8 terjadi penurunan yang signifikan hingga hampir 2x lipat <br />
+dari bulan sebelumnya. namun pada bulan selanjut terjadi lagi peningkatan yang drastis hingga puncaknya pada bulan 11 <br />
+yang memiliki total pelanggan sebesar 12,418,444 merupakan total tertinggi dari keseluruhan pengguna perbulanya <br />
+menurut hipotesa saya mengapa terjadi penurunan pada bulan 7,8 mungkin dikarenakan terdapat libur semester yang <br />
+terjadi pada bulan itu sehingga banyak mahasiswa yang biasanya naik tije namun dikarenakan libur maka mereka tidak <br />
+menaiki tije pada bulan tersebut. <br />
+<br />
+
+Selanjutnya terdapat distribusi jenis tije yang digunakan keseluruhanya yang terbagi kedalam tiga kategori jenis yaitu <br />
+BRT, Microtrans, serta angkutan umun integrasi. Awalnya saya berifikir akan terjadi perbedaaan yang cukup jauh antara <br />
+BRT dengan moda transportasi lainya dikarenakan penggunaan tertinggi semuanya berjenis BRT namun pemikiran awal saya keliru <br />
+ternyata moda transportasi lainya tidak berbeda jauh dengan brt seperti microtrans yang hanya memiliki perbedaan 8,430,943 <br />
+pelanggan dibanding BRT. Namun Angkutan Umum integrasi memiliki total keseluruhan yang paling sedikit dengan total 11,281,206. <br />
+Agkutan umum integrasi memang banyak sekali dalam urutan paling rendah total penggunaanya sehingga menurut saya untuk moda jenis ini <br />
+dapat diberikan pengembangan lagi agar lebih banyak pengguna yang menaiki moda tersebut.
+<br />
+
+Analisis terakhir yang saya lakukan merupakan lokasi yang paling banyak didatangi oleh para pengguna moda transportasi tije <br />
+dapat dilihat pada grafik dibawah <br />
+![Screenshot 2023-09-12 193629](https://github.com/Krioha/Tije/assets/93811161/d2387c05-c1d4-4c29-b972-11836abf5b5f)
