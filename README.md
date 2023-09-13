@@ -3,9 +3,10 @@
 ![image](https://github.com/Krioha/Tije/assets/93811161/0161b400-cfbf-4c31-9e18-11861a40014f)
 
 # Intoduction
-Semua berwal ketika saya pergi ke Jakarta dengan moda transportasi umum untuk mencapai tempat tujuan saya dan salah satu moda <br />
-Transportasi yang saya gunakan untuk mencapai tempat tujuan saya adalah Tije atau yang lebih dikenal sebagai Transjakarta <br />
-Pertama kali saya gunakan tije untuk mencapai Rasunan Said jadi saya menggunakan Tije dengan kode trayek 4D dan 6M <br />
+Semua berwal ketika saya pergi ke Jakarta dengan moda transportasi umum untuk mencapai tempat tujuan <br />
+saya dan salah satu moda transportasi yang saya gunakan untuk mencapai tempat tujuan saya adalah Tije <br />
+atau yang lebih dikenal sebagai Transjakarta Pertama kali saya gunakan tije untuk mencapai Rasunan Said <br />
+jadi saya menggunakan Tije dengan kode trayek 4D atau 6M <br />
 untuk mencapai tempat tersebut, dan saya berasal dari halte tije stasiun manggarai. didalam perjalanan tersebut <br />
 tidak ada masalah yang menggangu dan saya berhasil mencapai tempatnya dengan tepat waktu. <br />
 Perjalan saya selanjutnya ketika saya ingin menuju Gatot Subroto dengan tije yang berasal dari halte Tosari <br />
@@ -68,23 +69,27 @@ jenis moda transportasi tije apa saja yang selalu digunakan oleh pelanggan tije 
 sebagai berikut <br />
 ![Screenshot 2023-09-12 190108](https://github.com/Krioha/Tije/assets/93811161/11b1a507-1f2a-4c20-83bc-7bd05fe3750d) <br />
 yang pertama merupakan grafis time series total pengguna tiap bulanya, dari bulan 1 sampai bulan 6 relatif terjadi <br />
-peningkatan jumlah pelanggan tije namun pada bulan 7 dan 8 terjadi penurunan yang signifikan hingga hampir 2x lipat <br />
-dari bulan sebelumnya. namun pada bulan selanjut terjadi lagi peningkatan yang drastis hingga puncaknya pada bulan 11 <br />
-yang memiliki total pelanggan sebesar 12,418,444 merupakan total tertinggi dari keseluruhan pengguna perbulanya <br />
+peningkatan jumlah pelanggan tije namun pada bulan 7 dan 8 terjadi penurunan yang signifikan hingga hampir 2x <br />
+lipat dari bulan sebelumnya. namun pada bulan selanjut terjadi lagi peningkatan yang drastis hingga  <br />
+puncaknya pada bulan 11 yang memiliki total pelanggan sebesar 12,418,444 merupakan total <br />
+tertinggi dari keseluruhan pengguna perbulanya <br />
 menurut hipotesa saya mengapa terjadi penurunan pada bulan 7,8 mungkin dikarenakan terdapat libur semester yang <br />
 terjadi pada bulan itu sehingga banyak mahasiswa yang biasanya naik tije namun dikarenakan libur maka mereka tidak <br />
 menaiki tije pada bulan tersebut. <br />
 <br />
 
-Selanjutnya terdapat distribusi jenis tije yang digunakan keseluruhanya yang terbagi kedalam tiga kategori jenis yaitu <br />
-BRT, Microtrans, serta angkutan umun integrasi. Awalnya saya berifikir akan terjadi perbedaaan yang cukup jauh antara <br />
-BRT dengan moda transportasi lainya dikarenakan penggunaan tertinggi semuanya berjenis BRT namun pemikiran awal saya keliru <br />
-ternyata moda transportasi lainya tidak berbeda jauh dengan brt seperti microtrans yang hanya memiliki perbedaan 8,430,943 <br />
-pelanggan dibanding BRT. Namun Angkutan Umum integrasi memiliki total keseluruhan yang paling sedikit dengan total 11,281,206. <br />
-Agkutan umum integrasi memang banyak sekali dalam urutan paling rendah total penggunaanya sehingga menurut saya untuk moda jenis ini <br />
-dapat diberikan pengembangan lagi agar lebih banyak pengguna yang menaiki moda tersebut.
+Selanjutnya terdapat distribusi jenis tije yang digunakan keseluruhanya yang terbagi kedalam tiga kategori jenis <br />
+yaitu BRT, Microtrans, serta angkutan umun integrasi. Awalnya saya berifikir akan terjadi perbedaaan yang <br />
+cukup jauh antara BRT dengan moda transportasi lainya dikarenakan penggunaan tertinggi semuanya  <br />
+berjenis BRT namun pemikiran awal saya keliru ternyata moda transportasi lainya tidak berbeda jauh <br />
+dengan brt seperti microtrans yang hanya memiliki perbedaan 8,430,943 pelanggan dibanding BRT. <br />
+Namun Angkutan Umum integrasi memiliki total keseluruhan yang paling sedikit dengan total 11,281,206. <br />
+Agkutan umum integrasi memang banyak sekali dalam urutan paling rendah total penggunaanya <br />
+sehingga menurut saya untuk moda jenis ini <br />
+dapat diberikan pengembangan lagi agar lebih banyak pengguna yang menaiki moda tersebut. <br />
 <br />
 
-Analisis terakhir yang saya lakukan merupakan lokasi yang paling banyak didatangi oleh para pengguna moda transportasi tije <br />
-dapat dilihat pada grafik dibawah <br />
-![Screenshot 2023-09-12 193629](https://github.com/Krioha/Tije/assets/93811161/d2387c05-c1d4-4c29-b972-11836abf5b5f)
+Analisis terakhir yang saya lakukan merupakan lokasi yang paling banyak didatangi oleh para pengguna moda <br />
+transportasi tije dapat dilihat pada grafik dibawah <br />
+![Screenshot 2023-09-12 193629](https://github.com/Krioha/Tije/assets/93811161/d2387c05-c1d4-4c29-b972-11836abf5b5f) <br />
+
