@@ -35,5 +35,18 @@ oleh kode trayek 1 dengan rata rata pengguna sebesar 813,483 pelanggan per bulan
 tersebut serta rata rata perbulan tidak memiliki perbedaan peringkat dengan total keseluruhanya jadi nilainya dapat <br />
 dilihat pada grafik kiri bawah. <br />
 Saya Ingin melihat waktu tiap kedatangan bus tiap kode trayek yang saya dapatkan dari google dan saya akan tampikan dibawah ini <br />
-• Kode trayek 1 datang setiap 2-5 menit tergantung pemberhentian
-• Kode trayek 9 datang setiap 3-10 menit tergantung pemberhentian
+• Kode trayek 1 datang setiap 2-5 menit tergantung pemberhentian <br />
+• Kode trayek 9 datang setiap 3-7 menit tergantung pemberhentian <br />
+• Kode trayek 3 datang setiap 3-7 menit tergantung pemberhentian <br />
+• Kode trayek 8 datang setiap 4-10 menit tergantung pemberhentian <br />
+• Kode trayek 5 datang setiap 6 menit <br />
+• Kode trayek 7 datang setiap 4-6 menit tergantung pemberhentian <br />
+• Kode trayek 10 datang setiap 30-40 menit tergantung pemberhentian <br />
+• Kode trayek 6 datang setiap 4-12 menit tergantung pemberhentian <br />
+• Kode trayek 2 datang setiap 3-7 menit tergantung pemberhentian <br />
+• Kode trayek 13 datang setiap 17-20 menit tergantung pemberhentian <br />
+
+Dari hasil waktu kedatangan di atas dapat disimpulkan bahwa pihak tije sudah cukup baik mengatur jadwalnya <br />
+namun pada tryek 10 dan trayek 13 memiliki waktu kedatangan yang relatif cukup lama. Menurut hipotesa saya <br />
+data ini berasal dari tahun 2021 sedangkan pihak tije sudah menganalisis data yang terbaru yang menyebabkan bus <br />
+pada trayek tersebut datang lebih lama dikarenakkan menyesuaikan dengan jumlah penumpang terbaru <br />
