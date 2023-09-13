@@ -73,9 +73,9 @@ peningkatan jumlah pelanggan tije namun pada bulan 7 dan 8 terjadi penurunan yan
 lipat dari bulan sebelumnya. namun pada bulan selanjut terjadi lagi peningkatan yang drastis hingga  <br />
 puncaknya pada bulan 11 yang memiliki total pelanggan sebesar 12,418,444 merupakan total <br />
 tertinggi dari keseluruhan pengguna perbulanya <br />
-menurut hipotesa saya mengapa terjadi penurunan pada bulan 7,8 mungkin dikarenakan terdapat libur semester yang <br />
-terjadi pada bulan itu sehingga banyak mahasiswa yang biasanya naik tije namun dikarenakan libur maka mereka tidak <br />
-menaiki tije pada bulan tersebut. <br />
+menurut hipotesa saya mengapa terjadi penurunan pada bulan 7,8 mungkin dikarenakan terdapat  <br />
+libur semester yang terjadi pada bulan itu sehingga banyak mahasiswa yang biasanya naik tije  <br />
+namun dikarenakan libur maka mereka tidak menaiki tije pada bulan tersebut. <br />
 <br />
 
 Selanjutnya terdapat distribusi jenis tije yang digunakan keseluruhanya yang terbagi kedalam tiga kategori jenis <br />
@@ -92,4 +92,32 @@ dapat diberikan pengembangan lagi agar lebih banyak pengguna yang menaiki moda t
 Analisis terakhir yang saya lakukan merupakan lokasi yang paling banyak didatangi oleh para pengguna moda <br />
 transportasi tije dapat dilihat pada grafik dibawah <br />
 ![Screenshot 2023-09-12 193629](https://github.com/Krioha/Tije/assets/93811161/d2387c05-c1d4-4c29-b972-11836abf5b5f) <br />
+Dari gambar diatas terdapat 3 sesi berupa tempat awal terbanyak, tempat akhir terbanyak serta tempat tempat yang paling <br />
+banyak dilewati oleh para pelanggan moda transportasi tije. Dari tempat awal terbanyak jatuh kepada block M dengan total <br />
+pengguna sebesar 19,187,134 jumlah tersebut sangat berbeda jauh jumlah penggunanya dengan tempat awal lainya seperti <br />
+ciledug yang memiliki total pengguna sebesar 6,000,056 serta tempat lainya yang lebih kecil jadi block M merupakan <br />
+tempat awal terpadat untuk moda transportasi tije.<br />
+<br />
+Selanjutnya ada tempat akhir dengan Kota sebgai tujuan paling banyak dituju oleh para pengguna moda <br />
+transportasi tije dengan angka sebesar 20,043,802 dibanding tempat awal yang perbedaan besar tempat <br />
+tujuan relatif memiliki perbedaan yang lebih kecil dibanding tempat awal yang dapat  <br />
+dilihat pada grafis tujuan akhir.<br />
+<br />
+Selanjutnya ada jalur yang sering dilewati oleh para pengguna dapat dilihat pada grafik tempat yang <br />
+dilewati. Roxy merupakan tempat yang paling sering dilewati oleh para pengguna tije dengan perbedaan <br />
+yang tidak signifikan. seperti kayu manis merupakan tempat kedua yang sering dilewati dengan jumlah <br />
+pelanggan sebesar 2,698,238 dibanding dengan roxy yang meiliki pelanggan sebesar 2,894,418. <br />
+<br />
+Menurut saya untuk tempat tempat yang paling banyak dikunjugi lebih baik diperbesar lagi tempatnya <br />
+agar dapat menampung para pengguna lebih banyak dan meningkatkan fasiltas juga demi kenyamana para <br />
+pelanggan yang menggunakan moda transportasi tije. <br />
 
+# Conclusion
+Setelah dilakukan analisis di atas dipatkan kesimpulan bahwa untuk kode trayek yang paling banyak digunakan <br />
+sebaiknya jadwalnya lebih diperbanyak agar para pengguna tidak perlu menunggu terlalu lama dan busnya tidak <br />
+terlalu penuh ketika para pengguna ingin menaiki tije. Selanjutnya untuk moda tije yang paling jarang digunakan <br />
+sebaiknya dilakukan pengembangan lebih baik agar para pengguna ingin menaiki moda moda tersebut serta dilakukan <br />
+penyebaran informasi pada moda yang jarang digunakan agar masyarakat lebih tahu tentang moda tersebut.<br>
+Yang terakhir untuk tempat tempat yang banyak dikunjungi oleh para pengguna sebaik bisa diperbesar tempat <br />
+pemberhentianya untuk menampung para pengguna dengan baik serta meningkatakan fasilitas fasilitas yang <br />
+dapat meningkatkan kenyamanan para pengguna yang ingin menaiki moda transportasi tesebut. <br />
